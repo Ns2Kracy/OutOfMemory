@@ -24,27 +24,44 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 6 | 4 | 24 |
-| 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
-| 3 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
-| 4 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
-| 5 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
-| 6 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 10 | 140 |
-| 7 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
-| 8 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 9 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
-| 10 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 11 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 12 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 30 | 19 | 570 |
-| 13 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 14 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
-| 15 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 52 | 32 | 1664 |
+| 1 | [0x11111111](0x11111111) | [oom.sh](0x11111111/oom.sh) | 2 | 2 | 4 |
+| 2 | [skadi](skadi) | [fuck.py](skadi/fuck.py) | 7 | 2 | 14 |
+| 3 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 5 | 3 | 15 |
+| 4 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
+| 5 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
+| 6 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
+| 7 | [horror-proton](horror-proton) | [oom.sh](horror-proton/oom.sh) | 10 | 8 | 80 |
+| 8 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
+| 9 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 9 | 126 |
+| 10 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
+| 11 | [xuanzhi33](xuanzhi33) | [oom.py](xuanzhi33/oom.py) | 16 | 11 | 176 |
+| 12 | [mole828](mole828) | [oom.py](mole828/oom.py) | 17 | 11 | 187 |
+| 13 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
+| 14 | [Alisa](Alisa) | [Program.cs](Alisa/Program.cs) | 22 | 13 | 286 |
+| 15 | [unprintable123](unprintable123) | [setInterval.js](unprintable123/setInterval.js) | 24 | 13 | 312 |
+| 16 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
+| 17 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 18 | [bakashigure](bakashigure) | [oom.lua](bakashigure/oom.lua) | 26 | 17 | 442 |
+| 19 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 20 | [70CentsApple](70CentsApple) | [bruh.py](70CentsApple/bruh.py) | 24 | 19 | 456 |
+| 21 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 22 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
+| 23 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
+| 24 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
+| 25 | [DrEden33773](DrEden33773) | [main.rs](DrEden33773/main.rs) | 38 | 23 | 874 |
+| 26 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 27 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
+| 28 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 29 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 30 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
+| 31 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
 <!-- end of RANKING -->
 
 ## 奖品
 
 - 第一名：一箱难喝的黑咖啡。由 @MistEO 赞助！
 - 最佳创意奖：10 美元 苹果 或 Google Play 礼品卡。由 @守夜人 赞助！
+- 随机参与奖：V 你 50！由 @时雨 赞助！
 
 欢迎老板们赞助更多奖品~
 

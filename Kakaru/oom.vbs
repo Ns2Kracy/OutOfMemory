@@ -1,0 +1,1 @@
+Dim t(99):For e=9To 99:t(e)=e&String(9^9,"9"):Next
